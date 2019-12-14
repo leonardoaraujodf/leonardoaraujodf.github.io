@@ -1,9 +1,9 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: Leonardo Amorim
+description: Hi! My name is Leonardo Amorim, I'm an Electronic Engineer at University of Brasilia, Brazil, and this blog you can find tutorials and some other useful things about C, C++, VHDL, Microcontrollers, FPGAs and so on. 
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://leonardoaraujodf.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -16,10 +16,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: Leonardo Amorim
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: leoaraujodf 
 
 plugins:
   - jekyll-target-blank
