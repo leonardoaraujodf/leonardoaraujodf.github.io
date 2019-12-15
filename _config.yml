@@ -1,30 +1,23 @@
-title: Leonardo Amorim
-description: Hi! My name is Leonardo Amorim, I'm an Electronic Engineer at University of Brasilia, Brazil, and this blog you can find tutorials and some other useful things about C, C++, VHDL, Microcontrollers, FPGAs and so on. 
-show_downloads: true
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink:           pretty
+# relative_permalinks: true
 
-baseurl: "/blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://leonardoaraujodf.github.io" # change this to the base hostname & protocol for your site
+# Setup
+title:               Leonardo Amorim
+tagline:             'Contents about electronics, computer programming, embedded systems and some useful stuff.'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://leonardoaraujodf.github.io/
+baseurl:             ''
+paginate:            5
 
+# About/contact
+author:
+  name:              Leonardo Amorim
+  url:               https://github.com/leonardoaraujodf
+  email:             leonardoaraujodf@gmail.com
 
-google_analytics:
-
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-theme: # leave it empty
-
-# social
-author: Leonardo Amorim
-image: /thumbnail-jumbo.png
-twitter:
-  username: leoaraujodf 
-
-plugins:
-  - jekyll-target-blank
-
-target-blank:
-    rel: nofollow
-
-header_page_refs: ['now', 'about', 'contact']
+# Custom vars
+version:             1.0.0
+plugins: [jekyll-paginate]
