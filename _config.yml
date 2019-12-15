@@ -6,10 +6,8 @@
 
 # Setup
 title:               Leonardo Amorim
-tagline:             'Hi, my name is Leonardo, a electronic engineer at University of Brasilia, Brazil, and this blog is to show some useful stuff about electronics, computer programming, embedded systems, FPGAs and so on. Feel free to contact me and enjoy ;D'
-description:         'Contents about electronics, computer programming, embedded systems and some useful stuff.'
-
-# A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'Electronics, Microcontrollers, FPGAs, Computer Programming and some useful stuff.'
+description:         'Contents about electronics, computer programming and embedded systems'
 
 url:                 https://leonardoaraujodf.github.io/
 baseurl:             ''
